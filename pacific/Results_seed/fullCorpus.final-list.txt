@@ -1,0 +1,247 @@
+PLACE
+	Sound 	18
+	Line 	3
+	America 	17
+	Spain 	2
+	O-Taheitee 	7
+	London 	10
+	Falkland Islands 	3
+	Europe 	5
+	Asia 	11
+	Africa 	3
+	Antarctic 	2
+	Sandwich Land 	4
+	Southern Thule 	1
+	Hebrides 	5
+	Archipelago 	1
+	Friendly Islands 	4
+	England 	15
+	False Bay 	1
+	Falkland 	3
+	Islands 	11
+	Southern Atlantic Ocean 	1
+	Iceland 	2
+	Norway 	3
+	Sweden 	2
+	Lapland 	1
+	Russia 	5
+	Kamtchatka 	1
+	Ambrrym 	3
+	Sandwich 	2
+	Tanna 	6
+	Society Isles 	13
+	Ulietea 	1
+	Port Egmont 	2
+	sound 	19
+	Norfolk Island 	4
+	Tethuroa 	1
+	Teoukea 	1
+	Palliser 	2
+	Sumatra 	1
+	Hawai 'i 	1
+	Bolcheritsk 	9
+	Bolcheraika 	1
+	Captain Cook 	8
+	Kamtschatska-noss 	1
+	Friendly Isles 	6
+	Oneeheow 	4
+	Cape 	6
+	St. Helena 	1
+	the church of Paratounka 	2
+	Noo-Oonalashkah 	1
+	New-Hebrides 	1
+	New-Caledonia 	3
+	Scilly 	1
+	Howe 	1
+	Palmerstone 	1
+	Savage 	1
+	Turtle-Island 	2
+	Hope 	2
+	Cocos 	1
+	Queen Charlotte-Isles 	1
+	New-Hibernia 	1
+	New-Britain 	1
+	New-Guinea 	1
+	Macao 	6
+	the settlement of Egooschac 	1
+	Cape of Good Hope 	6
+	Anadyr 	2
+	Ingiga 	1
+	the sea of Okotsk 	1
+	Samganuida 	1
+	Andes 	1
+	Cape Froward 	1
+	Cape Horn 	1
+	O why hee 	1
+	Good Providence 	1
+	Austral land 	3
+	the island of Oneeheow 	1
+	Cape North 	1
+	China 	2
+	Dusky Bay 	5
+	A-Namocka 	2
+	Providence Bay 	1
+	Mallicollo 	2
+	France 	3
+	Zealand 	1
+	Cape Blanco 	2
+	California 	1
+	Tofooa 	1
+	Queen Charlotte 	3
+	Georgia 	4
+	Possession Bay 	2
+	Japan 	2
+	Albion 	1
+	Staten Land 	5
+	Java 	1
+	New-Zeeland 	6
+	Pico 	2
+	Teneriffe 	2
+	India Company 	2
+	Austral lands 	6
+	Cape Noir 	1
+	Christmas Bay 	2
+	Cape Comorin 	2
+	B 	3
+	Marquesas 	4
+	Tinian 	1
+	Bay Company 	1
+	North-America 	1
+	Bay 	3
+	Capt. Cook Comptrollers Bay 	1
+	Patagonia 	1
+	Cape Lopatka 	1
+	Sandwich Islands 	3
+	Sandwich Islands. 	1
+	Table Bay 	1
+	Plymouth 	1
+	Cape in March 	1
+	St. Hermogenes 	1
+	Cape Suckling 	1
+	St. Peter 	1
+	Capt. Cook Providence 	1
+	Southern Atlantic 	1
+	Cape Circumcision 	1
+	Italy 	1
+	Sicily 	1
+	Ascension 	1
+	Eaoowhe 	1
+	Greenwich 	2
+	Tofoòa 	2
+	Snug Corner Bay 	1
+	Ceylon 	1
+	Madagascar 	1
+	F 	2
+	England Shim 	1
+	Cape Hinchinbroke 	1
+	Maiha Maiha 	1
+	Mount Egmont 	2
+	Indian settlements 	1
+	Pontus 	1
+	Bay False 	1
+	Scotland 	2
+	Cape Elias 	1
+	Matavai 	1
+	Savage Island 	1
+	settlement 	1
+	Cape Lagullas 	1
+	India 	1
+	Cape Douglas 	1
+	Mediterranean 	1
+	High land 	1
+	Manilla 	2
+	Cape St. Barnabas 	1
+	Karakakooa Bay 	1
+	the Atlantic 	1
+	Paratounka 	1
+	Success Bay 	1
+	Peru 	1
+	Irromanga 	1
+	Cape Denbeigh 	1
+	Paradise 	1
+	Cape Elizabeth 	1
+	Cape of 	1
+	Anattom 	2
+	Cape Hermogenes 	1
+	Cape Prince 	2
+	Cape of Asia 	1
+	Tasman 	1
+	F I 	1
+	Hawaii 	1
+	O 'Why-ee Pallas 	1
+	Bengal 	1
+	Madras 	1
+	Otaheite 	1
+PERSON
+	Mr. 	15
+	his Majesty 	6
+	Gore 	3
+	Capt. Cook 	70
+	Alexander Dalrymple 	1
+	Cook 	5
+	Mr. Gore 	4
+	Forster , Johann Reinold 	1
+	Nicholas Thomas 	3
+	Harriet Guest 	1
+	Michael Dettelbach 	1
+	Major Behm 	1
+	Mr. Burney 	3
+	Mr. Nelson 	8
+	Kaoa , the High Priest 	1
+	Mr. Edgar 	4
+	Indian Priest 	1
+	the King 	2
+	William Austin 	1
+	the Surgeon 	4
+	Mr. Webber 	4
+	CHARLES CLERKE , ESQUIRE 	1
+	Capt. Carteret 	1
+	Mr. Law , our Surgeon 	1
+	Tinne 	2
+	Mr. King 	7
+	the Orono 	6
+	Capt. Gore 	5
+	Ismyloff 	1
+	King 	1
+	John Mackintosh 	1
+	Koah 	3
+	Capt. Clerke 	12
+	Dr. Irving 	2
+	de Buffon 	10
+	Mr. Nairne 	4
+	Johnson 	1
+	Mr. Adanson 	2
+	Dr. Higgins 	4
+	George 	1
+	Thomas Trecher 	1
+	Banks 	1
+	Omai 	1
+	Capt. King 	4
+	Anson 	1
+	Corporal Thomas 	1
+	King George 	1
+	Mr. Law , Surgeon 	1
+	Mr. P 	2
+	Byron 	1
+	Mr. Bligh 	3
+	Imperial Majesty 	2
+	Mairan 	1
+	Capt. Marion 	1
+	Mr. Portlock , Master 	1
+	Mr. E 	1
+	Africa 	1
+	Mr. Phillips 	1
+	Mr. De Bougainville 	1
+	Mr. Williamson 	1
+	Mr. Wales 	1
+	Mr. Wilke 	2
+	CHARLES CLERKE 	1
+	Mr. Anderson 	2
+	Winter Island 	1
+	Mr. Edward 	1
+	Mr. W 	1
+	Mr. Ramsden 	1
+	James Cook 	1
+	Winter 	1
+	Mr. Bailey 	2
+	Capt Cook 	1

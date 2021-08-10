@@ -1,0 +1,176 @@
+PLACE
+	Sound 	13
+	Line 	3
+	America 	12
+	Spain 	1
+	O-Taheitee 	6
+	London 	8
+	Falkland Islands 	2
+	Europe 	4
+	Asia 	8
+	Africa 	4
+	Antarctic 	1
+	Sandwich Land 	2
+	Southern Thule 	1
+	Hebrides 	2
+	Archipelago 	1
+	Friendly Islands 	4
+	England 	11
+	False Bay 	1
+	Falkland 	2
+	Islands 	3
+	Southern Atlantic Ocean 	1
+	Iceland 	1
+	Norway 	1
+	Sweden 	1
+	Lapland 	1
+	Russia 	5
+	Kamtchatka 	1
+	Ambrrym 	2
+	Sandwich 	2
+	Tanna 	3
+	Society Isles 	11
+	Ulietea 	1
+	Port Egmont 	2
+	sound 	18
+	Norfolk Island 	2
+	Tethuroa 	1
+	Teoukea 	1
+	Palliser 	2
+	Sumatra 	1
+	Hawai 'i 	1
+	Bolcheritsk 	7
+	Bolcheraika 	1
+	Captain Cook 	4
+	Kamtschatska-noss 	1
+	Friendly Isles 	4
+	Oneeheow 	3
+	Cape 	9
+	St. Helena 	1
+	the church of Paratounka 	1
+	Noo-Oonalashkah 	1
+	New-Hebrides 	1
+	New-Caledonia 	2
+	Scilly 	1
+	Howe 	1
+	Palmerstone 	1
+	Savage 	1
+	Turtle-Island 	2
+	Hope 	2
+	Cocos 	1
+	Queen Charlotte-Isles 	1
+	New-Hibernia 	1
+	New-Britain 	1
+	New-Guinea 	1
+	Macao 	6
+	the settlement of Egooschac 	1
+	Cape of Good Hope 	6
+	Anadyr 	2
+	Ingiga 	1
+	the sea of Okotsk 	1
+	Samganuida 	1
+	Andes 	1
+	Cape Froward 	1
+	Cape Horn 	1
+	O why hee 	1
+	Good Providence 	1
+	Austral land 	3
+	the island of Oneeheow 	1
+	Cape North 	1
+	China 	1
+	Dusky Bay 	4
+	A-Namocka 	2
+	New Zeeland 	4
+	isle of New Zeeland 	1
+	New Hebrides 	1
+	F 	2
+	Easter Island 	2
+	Marquesas 	3
+	Staten Island 	1
+	Tofoòa 	1
+	F. 	1
+	B 	2
+	New-Zeeland 	5
+	Eaoowhe 	1
+	Possession Bay 	2
+	Southern Georgia 	2
+	Paradise 	1
+	New Albion 	1
+	Madagascar 	1
+	France 	2
+	O-Aite-peha 	1
+	Snug Corner Bay 	1
+	Irromanga 	1
+	Sandwich Islands 	2
+	Manilla 	1
+	Peru 	1
+	Pico 	1
+	Teneriffe 	1
+	B. White 	1
+	Cape Elizabeth 	1
+	India Company 	1
+	Mallicollo 	1
+	Bay False 	1
+	Atlantic 	1
+	Staten Land 	2
+	Providence Bay 	1
+	South Georgia 	1
+	Japan 	1
+	Southern Atlantic 	1
+	Queen Charlotte 	1
+	Greenwich 	1
+	Christmas Bay 	1
+	High land 	1
+PERSON
+	Mr. 	14
+	his Majesty 	5
+	Gore 	1
+	Capt. Cook 	58
+	Alexander Dalrymple 	1
+	Cook 	5
+	Mr. Gore 	3
+	Forster , Johann Reinold 	1
+	Nicholas Thomas 	3
+	Harriet Guest 	1
+	Michael Dettelbach 	1
+	Major Behm 	1
+	Mr. Burney 	3
+	Mr. Nelson 	8
+	Kaoa , the High Priest 	1
+	Mr. Edgar 	4
+	Indian Priest 	1
+	the King 	36
+	William Austin 	1
+	the Surgeon 	4
+	Mr. Webber 	3
+	CHARLES CLERKE , ESQUIRE 	1
+	Capt. Carteret 	1
+	Mr. Law , our Surgeon 	1
+	Tinne 	2
+	Mr. King 	7
+	the Orono 	2
+	Capt. Gore 	6
+	Ismyloff 	1
+	King 	13
+	John Mackintosh 	1
+	Koah 	3
+	Capt. Clerke 	11
+	Dr. Irving 	2
+	de Buffon 	5
+	The King 	5
+	M. de Buffon 	3
+	Mr. Nairne 	3
+	Mr. Adanson 	1
+	Mr. Anderson 	1
+	King George 	1
+	Thomas Trecher 	1
+	Capt. Page 	1
+	Mairan 	1
+	Mr. Law , Surgeon 	1
+	Capt. King 	3
+	Mr. Bailey 	1
+	Mr. De Bougainville 	1
+	T. Cadell 	1
+	George 	1
+	Winter Island 	1
+	Captain Cook 	1

@@ -1,0 +1,507 @@
+GEO
+	Haarlem 	2
+	Amsterdam 	2
+	Bombay 	58
+	Yokohama 	41
+	Réaumur 	5
+	Liverpool 	29
+	rade d' Aden 	1
+	mer des Indes 	1
+	fort Kearney 	5
+	Omaha 	18
+	Londres 	90
+	Angleterre 	53
+	Europe 	28
+	Wisbeach 	1
+	Saville-row 	16
+	Passe-Bridger 	1
+	montagnes Rocheuses 	4
+	Singapore 	11
+	île de Hong-Kong 	1
+	Suez 	30
+	d' Inde 	3
+	Bugey 	1
+	Bénarès 	9
+	Kirkland 	1
+	Erlangen 	2
+	Hong-Kong 	60
+	Ellora 	1
+	Aurungabad 	1
+	station d' Ogden 	3
+	Fontenay 	20
+	station de Kearney 	5
+	Republican-river 	1
+	Hollande 	13
+	Nagasaki 	4
+	Indes 	28
+	Bordeaux 	6
+	Amérique 	25
+	Céleste Empire 	3
+	golfe Arabique 	1
+	Temple 	2
+	Lincoln' s-inn 	1
+	Gray' s-inn 	1
+	OCÉAN PACIFIQUE 	1
+	Shangaï 	14
+	lac Salé 	7
+	Seine 	4
+	Bundelkund 	9
+	France 	40
+	Paris 	95
+	Brindisi 	10
+	Calcutta 	31
+	San Francisco 	26
+	New York 	28
+	Allahabad 	10
+	Chine 	24
+	Japon 	20
+	île de Bombay 	1
+	Salcette 	2
+	Tannah 	1
+	chaîne des Ghâtes-Occidentales 	1
+	Burhampour 	1
+	Gange 	20
+	Burdivan 	1
+	Chandernagor 	3
+	Jagrenat 	14
+	Écosse 	5
+	Édimbourg 	10
+	Rome 	11
+	Espagne 	5
+	Bruxelles 	8
+	Pacifique 	9
+	Amérique du Nord 	1
+	Malaisie 	1
+	d' Yverdon 	1
+	Lausanne 	8
+	Neuchâtel 	3
+	Douvres 	8
+	Calais 	7
+	Utah 	7
+	Chicago 	7
+	vallée du Bitter-creek 	2
+	Atlantique 	5
+	pagode de Pillaji 	7
+	pagode de Malebar-Hill 	4
+	Mexique 	1
+	Pérou 	2
+	Chili 	1
+	Brésil 	1
+	Asie 	4
+	océan Pacifique 	2
+	Suisse 	15
+	Royaume-Uni 	8
+	Thrapston 	3
+	Wadenho 	5
+	Ceylan 	4
+	l' Arabie 	1
+	Perse 	7
+	Thibet 	2
+	d' Ava 	1
+	Siam 	1
+	Mississippi 	2
+	Davenport 	1
+	Rock-Island 	1
+	Illinois 	4
+	Hudson 	4
+	Broadway 	2
+	Californie 	2
+	American-river 	1
+	baie de San Pablo 	1
+	Bois-Le-Duc 	4
+	Afrique 	3
+	Lourps 	7
+	coq-d' Inde 	4
+	Stamford 	4
+	Kholby 	4
+	Cluny 	4
+	port de Yokohama 	2
+	Pacific rail-road 	2
+	Central Pacific 	2
+	Ogden 	2
+	Union Pacific 	1
+	Crusca 	1
+	d' Italie 	3
+	Sacramento 	6
+	Queenstown 	3
+	Irlande 	2
+	États-Unis 	2
+	Périgord 	4
+	Strasbourg 	4
+	d' Achard 	1
+	Indiana 	1
+	Ohio 	3
+	Pennsylvanie 	1
+	New Jersey 	1
+	Hôtel du Club 	3
+	Gaule 	3
+	d' Aunay 	2
+	tour du 	1
+	Croy 	1
+	Châtillon 	2
+	Madras 	2
+	Bengale 	6
+	Agra 	1
+	groupe des Andaman 	1
+	détroit de Malacca 	2
+	gare du Nord 	1
+	gare de Lyon 	1
+	Hartfort 	2
+	Connecticut 	3
+	Pantin rue de 	1
+	Antibes 	1
+	Cannes 	1
+	Nebraska 	3
+	chemin de fer du Pacifique 	2
+	bassin du Mississippi 	1
+	Versailles 	3
+	Mont-Cenis 	2
+	Turin 	2
+	Sceaux 	2
+	Nicée 	1
+	empire du Soleil 	1
+	États de l' Union 	1
+	Grand-Island 	1
+	Columbus 	1
+	Schuyler 	1
+	Fremont 	2
+	Cité des Saints 	3
+	vallée de Carson 	1
+	Vermont 	1
+	Missouri 	4
+	Cologne 	2
+	International-Hôtel 	2
+	Dublin 	3
+	détroit de Bab-el-Mandeb 	2
+	Steamer-Point 	2
+	Aden 	8
+	Rothal 	1
+	« Great-Indian peninsular railway » 	1
+	l' Angleterre 	8
+	Oxford 	2
+	Lynn 	2
+	Himalaya 	2
+	Muddy 	1
+	Green 	1
+	l' avenue 	1
+	Latour-Maubourg 	1
+	rue de Babylone 	1
+	Arkansas 	2
+	Scandinavie 	1
+	Allemagne 	1
+	port Victoria 	3
+	Platte-river 	6
+	Laramie 	2
+	montagnes Wahsatch 	1
+	Lake Salt City 	1
+	la vallée de la Tuilla 	1
+	les monts de Cédar 	1
+	Humboldt 	1
+	Humboldt-river 	2
+	la Sierra Nevada 	1
+	mer Rouge 	4
+	rue de 	7
+	Rivoli 	5
+	Tamise 	2
+	Turquie 	2
+	rivière de Canton 	2
+	Macao 	2
+	Anvers 	3
+	Bruges 	3
+	Inde 	32
+	station de Callyan 	1
+	Kandallah 	1
+	Pounah 	1
+	station de Pauwell 	1
+	Pillaji 	3
+	Edimbourg 	1
+	Jourdain 	2
+	Weber 	1
+	monts Vindhias 	1
+	Medicine-Bow 	2
+	Iowa 	1
+	Kansas 	1
+	Colorado 	4
+	Oregon 	1
+	Champagne 	4
+	Bayreuth 	1
+	station de Plum-Creek 	1
+	Duplessis 	1
+	D' Épendes 	1
+	Éléphanta 	1
+	grottes Kanhérie 	1
+	île Salcette 	2
+	Yeddo 	2
+	Meako 	1
+	Vaud 	2
+	Sanseverina-taxis de Stendhal 	1
+	Italie 	2
+	porte de Lahor 	1
+	Keswick 	1
+	Carthage 	2
+	Derby 	1
+	Buxton 	1
+	Shortley 	1
+	Kendall 	1
+	Carlisle 	2
+	Brighthelmstone 	1
+	Caux 	1
+	Bresse 	1
+	Cité 	1
+	Belley 	1
+	UNION 	1
+	fort Sauders 	1
+	pagode de Bombay 	2
+	bible de Pierre 	1
+	Offenbourg 	1
+	Byron 	1
+	Havre 	1
+	Berne 	1
+	l' avant-port 	1
+	États du Wyoming 	1
+	Russie 	1
+	Bulletin 	1
+	Brunswick 	1
+	Échiquier 	1
+	Cour 	1
+	rue du canal-aux-harengs 	1
+	coqs-d' Inde 	1
+	contre-haut de Montgommery-street 	1
+	Weber-river 	1
+	Plata 	1
+	Defensorius 	1
+	Uranus 	1
+	Martial de Bilbilis 	1
+	montagnes de Sutpour 	1
+	station d' Assurghur 	1
+	golfe de Cambaye 	1
+	Southampton 	1
+	Shipping Gazette 	1
+	Sana 	1
+	Arabie 	2
+	Union Pacific Road 	2
+	police de Bonaparte 	1
+	Philippe-Auguste 	1
+	Philadelphie 	1
+	Perrin de Lyon 	1
+	Pathmos 	1
+	Passy 	1
+	Osiris 	1
+	pagode de Jagrenat 	4
+	Jagernat 	1
+	côte d' Orixa 	1
+	rue monsieur-le-prince 	1
+	rue de Vaugirard 	1
+	station d' Oakland 	1
+	Nottingham 	1
+	Niddin 	1
+	Newmarket 	1
+	Newhaven 	1
+	Nassik 	1
+	station de Malligaum 	1
+	Germinie Lacerteux 	1
+	Kettering 	1
+	Ispahan 	1
+	Delhi 	3
+	Jumna 	1
+	Julesburgh 	1
+	Indus 	1
+	Far West 	1
+	INDE ET 	1
+	Hay-Market 	1
+	Hartford 	1
+	fort Halleck 	1
+	Gretna Green 	1
+	Goa 	1
+	Figaro 	1
+	station d' Elko 	1
+	Dante 	1
+	Constantinople 	1
+	mer de Bretagne 	1
+	Clamart 	1
+	station de Cisco 	1
+	Cani 	1
+	Berlin 	1
+	Batterie 	1
+	Auburn 	1
+	Sierra Nevada 	1
+	Annam 	1
+	avant de l' île de Saint-Denis 	1
+	Union 	2
+	IIe 	1
+	ville de Madras 	1
+	Sens 	1
+	Daily Telegraph 	1
+	Moyen Age 	2
+	station de Green-river 	1
+	fort de Chunar 	1
+	d' Amsterdam 	1
+	James Forster 	1
+	États-Unis d' Amérique DES 	1
+	Régent-street de Londres 	1
+	quatre-vingt-six 	1
+	IV-du coq-d' Inde 	1
+	détroit de Fo-Kien 	1
+	Commodien de Gaza 	1
+	station d' Allahabad 	6
+	providence de Dieu 	1
+	gare de Medicine-Bow 	1
+	port de Hong-Kong 	2
+	En Sauver 	1
+	Faustin 	2
+	Bossuet 	1
+	rue saint-Sulpice 	1
+	rue Du 	1
+	imitation de notre-seigneur 	1
+	La Bruyère 	1
+	Saville-row entrait-elle 	1
+	rambarde de l' engine-room 	1
+	Madame Pourras 	1
+	Laffitte 	1
+	petite Dorrit 	1
+	Dora Copperfield 	1
+	soeur de Tom 	1
+	Théophile 	1
+	gare de Charing-Cross 	1
+	Sauterne 	1
+	voisinage de l' île de Bombay 	1
+	Salamanque 	1
+	tour de Provins 	1
+	Piémont 	1
+	Northampton 	1
+	Catherine 	1
+	Moïse 	1
+	rue Mosnier 	1
+	Israël 	1
+	" Alocasia 	1
+	Madère 	1
+	fort Mac-Pherson 	1
+	douleur de Laocoon 	1
+	Arnobe 	1
+	" Encephalartos 	1
+	Avitus 	1
+	cuisine de Genin 	1
+	station de Fort-Bridger 	1
+	État de Wyoming 	1
+	Crampton 	1
+	rue Castiglione 	1
+	Cardif 	1
+	Trautz-Bauzonnet 	1
+	Chambolle 	1
+	Nn Ss 	1
+	Dom Guéranger 	1
+	monts Bohées 	1
+	lac Asphaltite 	1
+	Société de l' Armonica 	1
+	station de Burhampour 	1
+	proposition de Samuel 	1
+	rue d' Amsterdam 	1
+	gare de Sceaux 	1
+	rivière de Shangaï 	1
+	Pantin 	2
+	rue coquenard 	1
+	rue des saints-pères 	1
+	État de Californie 	2
+	d' Angleterre 	11
+	Van Ostade 	1
+	rue pleine 	1
+	Reform-Club de Londres 	1
+	État de Nebraska 	1
+	station d' Omaha 	3
+	rue fut 	1
+	rue . 	2
+	rue , 	5
+	Mademoiselle Pourras 	1
+	d' Allemagne 	1
+	rue " 	1
+	elle-même 	1
+	port de Queenstown 	1
+	pagode de toute 	1
+	l' Espagne 	1
+	Pacific Mail 	1
+	General Grant 	3
+	l' Italie 	1
+	route de Londres 	2
+	port de New York 	1
+	Bourgogne 	1
+	Gemna 	1
+	Salomé 	1
+	vingt-cinq 	1
+	gare d' Omaha 	1
+	montagnes de Malacca 	1
+	D' Aubigné 	1
+	rue du 	2
+	lecture de Bourdaloue 	1
+	d' Aigurande 	1
+	vallée d' Aunay 	1
+	Nouveau Monde 	1
+	vallée de Fontenay 	1
+	vallée du Gange 	1
+	Joseph Smyth 	1
+	Mallarmé 	1
+	baie de la Porte-d' Or 	1
+	Madame 	1
+	océan Indien 	1
+	Chicago Rock 	1
+	table l' après-midi 	1
+	ligne de chemin de fer du 	1
+	Mr 	3
+	d' Amérique 	1
+	station de Rothal 	1
+	station de Fontenay 	1
+	Jutigny 	1
+	l' Inde 	11
+	États-Unis d' Amérique 	2
+	Athènes de l' Inde 	1
+	garde de Passepartout 	1
+	Madame Saurin 	1
+	XVIIIe 	1
+	Buffon 	1
+	Épendes 	1
+	toute l' Inde 	1
+	chaîne des Vindhias 	1
+	conversation de Madame 	1
+	rue ; 	1
+	Trimalchio 	1
+	in-folio 	1
+	station de Kandallah 	1
+	d' Espagne 	1
+	Banque d' Angleterre 	3
+	mort de Madame 	1
+	prenez-vous Bombay 	1
+	rade de Suez 	1
+	l' Américain 	1
+	place de Leicester 	1
+	Égypte 	1
+	place de Londres 	1
+	tour de l' Angleterre 	1
+	Compagnie 	1
+	Kentish 	2
+	de Londres 	1
+	Council-Bluffs 	1
+	Mer 	1
+	gare n' 	1
+	tour du Parlement 	1
+	Liverpool de Londres 	1
+	station du fort Kearney 	1
+	île de Singapore 	1
+	l' Henrietta 	1
+	monts Wahsatch 	2
+	Tankadère 	1
+	terre de l' Union 	1
+	gare de Liverpool 	1
+	direction de Londres 	1
+	route de Hong-Kong 	1
+	gare de Green-river 	1
+	station de Bénarès 	1
+	station suivante 	1
+	Amérique ou de l' Inde 	1
+	d' Allahabad 	1
+	Passepartout 	1
+	rue se 	1
+	pagode s' 	1
+	Wilde 	1
+	station . 	1
+	société de M 	1
+	Andrew 	1
+	Thomas 	1

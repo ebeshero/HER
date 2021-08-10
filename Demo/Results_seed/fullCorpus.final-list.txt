@@ -1,0 +1,177 @@
+GEO
+	Haarlem 	2
+	Amsterdam 	2
+	Bombay 	63
+	Yokohama 	43
+	Réaumur 	5
+	Liverpool 	31
+	rade d' Aden 	1
+	mer des Indes 	4
+	fort Kearney 	6
+	Omaha 	18
+	Londres 	100
+	Angleterre 	55
+	Europe 	28
+	Wisbeach 	1
+	Saville-row 	16
+	Passe-Bridger 	1
+	montagnes Rocheuses 	4
+	Singapore 	11
+	île de Hong-Kong 	1
+	Suez 	31
+	d' Inde 	2
+	Bugey 	1
+	Bénarès 	10
+	Kirkland 	1
+	Erlangen 	2
+	Hong-Kong 	58
+	Ellora 	1
+	Aurungabad 	1
+	station d' Ogden 	3
+	Fontenay 	22
+	station de Kearney 	5
+	Republican-river 	1
+	Hollande 	13
+	Nagasaki 	4
+	Indes 	28
+	Bordeaux 	6
+	Amérique 	27
+	Céleste Empire 	2
+	golfe Arabique 	1
+	Temple 	2
+	Lincoln' s-inn 	1
+	Gray' s-inn 	1
+	OCÉAN PACIFIQUE 	1
+	Shangaï 	15
+	lac Salé 	2
+	Seine 	4
+	Bundelkund 	9
+	Chine 	24
+	synagogue d' Amsterdam 	1
+	station d' Omaha 	3
+	Douvres 	8
+	Calais 	7
+	cannes d' Inde 	1
+	Royaume-Uni 	8
+	Paris 	95
+	Allahabad 	10
+	Pacifique 	13
+	Saville-row entrait-elle 	1
+	Inde 	51
+	France 	40
+	fort de Chunar 	1
+	Gange 	21
+	État 	4
+	station d' Oakland 	1
+	Japon 	20
+	station de 	3
+	Burhampour 	2
+	Utah 	7
+	mer Rouge 	4
+	États-Unis d' Amérique 	3
+	Calcutta 	31
+	Rome 	11
+	Arkansas 	2
+	Bruxelles 	8
+	Platte-river 	5
+	mer de Bretagne 	1
+	INDE 	1
+	station d' Allahabad 	7
+	ou d' Amérique 	1
+	Perse 	7
+	Aden 	8
+	rade de 	1
+	imitation de notre-seigneur 	1
+	Illinois 	4
+	Atlantique 	5
+	station d' Assurghur 	1
+	golfe de Cambaye 	1
+	montagnes d' 	1
+	Suisse 	15
+	l' Angleterre 	1
+	Hôtel 	3
+	Stamford 	4
+	Lausanne 	8
+	Jagrenat 	18
+	Espagne 	5
+	Salamanque 	1
+	sortir d' Angleterre 	1
+	Chicago 	8
+	Jagernat 	1
+	côte d' Orixa 	1
+	Banque d' Angleterre 	9
+	île Salcette 	2
+	Salcette 	2
+	Carthage 	2
+	station de Kandallah 	1
+	lui-même qu' 	1
+	Indiana 	1
+	Ohio 	3
+	dîner de faire-part d' 	1
+	Thibet 	2
+	vallée d' Aunay 	2
+	Chandernagor 	3
+	d' Allemagne 	1
+	Oregon 	1
+	Sacramento 	6
+	fort Mac-Pherson 	1
+	Mrs 	1
+	station de Malligaum 	1
+	Himalaya 	2
+	Brindisi 	10
+	d' Angleterre 	7
+	Hong-Kong à 	3
+	cuir d' Angleterre 	1
+	Union 	4
+	île de Singapore 	1
+	d' Amsterdam 	1
+	Delhi 	3
+	Platte-river jusqu' 	1
+	Laramie 	2
+	montagnes Wahsatch 	1
+	Humboldt 	1
+	Humboldt-river 	2
+	garde-voie n' 	1
+	celle d' Hercule 	1
+	Ogden 	2
+	margrave D' Anspach 	2
+	Dublin 	3
+	la Cour 	1
+	Échiquier 	1
+	Hudson 	4
+	Hong-Kong n' 	1
+	Ceylan 	4
+	station de Cisco 	1
+	station de Callyan 	1
+	station de Pauwell 	1
+	la Bourse 	1
+	la Banque 	1
+	Asie 	2
+	station d' Elko 	1
+	Indus 	1
+	île de 	1
+	Tannah 	1
+	Burdivan 	1
+	coqs-d' Inde 	1
+	l' Espagne 	1
+	station de Green-river 	1
+	fort Halleck 	1
+	Hong-Kong pour 	1
+	océan 	2
+	International-Hôtel 	2
+	sein mi-clos d' 	1
+	station de Rothal 	1
+	Malaisie 	1
+	d' Espagne 	1
+	Scandinavie 	1
+	Allemagne 	1
+	gare d' Omaha 	1
+	rez-de-chaussée de l' 	1
+	fort Sauders 	1
+	passe d' Evans 	1
+	Angleterre d' 	1
+	station de Plum-Creek 	1
+	palki-ghari s' 	1
+	Cardif 	1
+	station de Fort-Bridger 	1
+	laine d' Angleterre 	1
